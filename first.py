@@ -1,3 +1,3 @@
 def display():
-print("welocme to just one")
+  print("welocme to just one")
 
